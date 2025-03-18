@@ -1,3 +1,6 @@
+
+其它压测工具可以参考：https://github.com/link1st/go-stress-testing?tab=readme-ov-file
+
 # 基于websocket单台机器支持百万连接分布式聊天(IM)系统
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/link1st/gowebsocket)](https://pkg.go.dev/github.com/link1st/gowebsocket/v2)
 [![Release](https://img.shields.io/github/v/release/link1st/gowebsocket)](https://github.com/link1st/gowebsocket/releases)
